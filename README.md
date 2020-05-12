@@ -13,7 +13,7 @@
 
   - ex) 4_정재훈_abcde.pdf
  
-### :pushpin: ist
+### :pushpin: List
 - 3_서동훈
 - 3_허송이
 - 3_김현진
