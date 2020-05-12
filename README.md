@@ -1,5 +1,4 @@
-# 2020_FirstSemester
- 
+
 # :ledger: TeamSCP Document
 
 ### :file_folder: Folder format
@@ -18,7 +17,6 @@
 - 4_정재훈
 - 4_박지윤
 - 4_양경모
-- 3_양경모
 - 3_서동훈
 - 3_허송이
 - 3_김현진
