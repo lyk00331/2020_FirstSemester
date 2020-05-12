@@ -3,7 +3,7 @@
 
 ### :file_folder: Folder format
 
-- YYYY_ MM _DD
+  - MM _DD
   - md
   - pdf
 
