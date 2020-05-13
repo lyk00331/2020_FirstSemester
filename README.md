@@ -4,8 +4,7 @@
 ### :file_folder: Folder format
 
   - MM _DD
-  - md
-  - pdf
+ 
 
 ### :white_check_mark: File format
 
